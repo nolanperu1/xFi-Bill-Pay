@@ -32,9 +32,9 @@ def cardInfo():
 
 #     driver.implicitly_wait(20)
 #     userID = driver.find_element_by_id('user')
-#     userID.send_keys("njperugini")
+#     userID.send_keys("")
 #     password = driver.find_element_by_id('passwd')
-#     password.send_keys("Phoebe007!")
+#     password.send_keys("")
 #     #password.send_keys(Keys.RETURN)
 #     driver.find_element_by_class_name('submit').click()
 
